@@ -18,3 +18,5 @@ import_group:
     - id: pato
     - id: omo
 robot_java_args: '-Xmx6G'
+
+use_dosdps: true

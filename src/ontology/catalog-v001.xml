@@ -10,6 +10,7 @@
   
   <uri name="http://purl.obolibrary.org/obo/cato/imports/omo_import.owl" uri="imports/omo_import.owl"/>
   
+  <uri name="http://purl.obolibrary.org/obo/cato/patterns/definitions.owl" uri="../patterns/definitions.owl"/>
   
 
 

@@ -18,6 +18,8 @@ Import(<http://purl.obolibrary.org/obo/cato/imports/pato_import.owl>)
 
 Import(<http://purl.obolibrary.org/obo/cato/imports/omo_import.owl>)
 
+Import(<http://purl.obolibrary.org/obo/cato/patterns/definitions.owl>)
+
 
 
 Annotation(dcterms:description "None")
