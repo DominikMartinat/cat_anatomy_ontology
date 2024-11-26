@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/obophenotype/bio-attribute-ontology/master/src/patterns/dosdp-patterns/entity_attribute.yaml
